@@ -32,3 +32,11 @@ Here are some ideas to get you started: -->
   <a href="https://dev.to/kaluribr" target="blank"><img aling="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kaluribr" height="30" width="40"/></a>
   <a href="https://www.linkedin.com/in/danilo-moraes-364a07207/" target="blank"><img aling="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danilo-moraes-364a07207" height="30" width="40" /></a>
   <a href="https://www.instagram.com/danilotmoraes/" target="blank"><img aling="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="danilotmoraes" heigth="30" width="40" /><a/>
+    
+<h3 aling="left">Dev em:</h3>
+    <p aling="left"> <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img aling="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><a/>
+                                                                                               
+               
+      
+      <!---https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"--->
+    
