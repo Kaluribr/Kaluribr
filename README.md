@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 <h3 aling="left">Me siga em:</h3>
 <p aling="left">
-  <a href="https://dev.to/kaluribr" target="blank"><img aling="center" src"https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kaluribr" height="30" width="40"/></a>
+  <a href="https://dev.to/kaluribr" target="blank"><img aling="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kaluribr" height="30" width="40"/></a>
   <a href="https://www.linkedin.com/in/danilo-moraes-364a07207/" target="blank"><img aling="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danilo-moraes-364a07207" height="30" width="40" /></a>
