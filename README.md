@@ -37,8 +37,8 @@ Here are some ideas to get you started: -->
     <p aling="left"> <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img aling="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><a/>
       <p aling="left"> <a href="https://www.w3schools.com/css/default.asp" target="_blanl"><img aling"center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" heigth="40"/><a/> <p/>
         
-        <h3 align="left">Support:</h3>
-                                                                                               
+ <h3 align="left">Support:</h3>
+        <p><a href="https://www.buymeacoffee.com/kaluri" <img aling="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kaluri" /><a/>                                                                                               
                
      
     
