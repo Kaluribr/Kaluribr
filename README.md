@@ -4,7 +4,7 @@
 <!--
 **Kaluribr/Kaluribr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 
 🔭 I’m currently working on HTML
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 📄 Know about my experiences https://www.linkedin.com/in/danilo-moraes-364a07207/
 
 ⚡ Fun fact I like Beekeeper.
--->
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
