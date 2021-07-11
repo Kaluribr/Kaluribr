@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 
 👯 I’m looking to collaborate on Websites
 
-🤝 I’m looking for help with English
+🤝 I’m looking for help with Programming
 
 👨‍💻 All of my projects are available at github.com/Kaluribr?tab=repositories
 
