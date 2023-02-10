@@ -7,9 +7,9 @@
 Here are some ideas to get you started: -->
 
 
-🔭 I’m currently working on HTML
+🔭 I’m currently working on JAVA
 
-🌱 I’m currently learning Python
+🌱 I’m currently learning JAVA
 
 👯 I’m looking to collaborate on Websites
 
