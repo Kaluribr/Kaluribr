@@ -2,7 +2,7 @@
 <h3 align="center">Lets get to work.</h3>
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Kaluribr">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kaluribr&show_icons=true&theme=White&include_all_commits=true&count_private=true."/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaluribr&layout=compact&langs_count=7&theme=White&include_all_commits=true&count_private=true."/>
@@ -15,7 +15,7 @@
   <img align="center" alt="Danilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Danilo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-</div>
+</div> -->
   
 
 <!--
